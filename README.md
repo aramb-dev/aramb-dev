@@ -1,4 +1,4 @@
-<a href="https://app.daily.dev/aramb-dev"><img src="https://raw.githubusercontent.com/aramb-dev/aramb-dev/main/devcard.svg" width="400" alt="Abdur-Rahman's Dev Card"/></a>
+<a href="https://dly.to/MVts3LYHoVl"><img src="https://raw.githubusercontent.com/aramb-dev/aramb-dev/main/devcard.svg" width="400" alt="Abdur-Rahman's Dev Card"/></a>
 
 - 👋 Hi, I’m @aramb-dev
 - 👀 I’m interested in Amazon Web Services
