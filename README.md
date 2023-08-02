@@ -14,4 +14,6 @@ You can click the Preview link to take a look at your changes.
 --->
 <br><br>
 <a href="https://github.com/aramb-dev">
-	<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aramb-dev&theme=github_dark" alt="ARAMB-DEV GitHub overview card" tooltip="ARAMB-DEV GitHub overview card" />
+	<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aramb-dev&theme=github_light" alt="ARAMB-DEV GitHub overview card" tooltip="ARAMB-DEV GitHub overview card" />
+
+ 
