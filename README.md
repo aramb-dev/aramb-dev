@@ -27,8 +27,7 @@ You can click the Preview link to take a look at your changes.
 
 
 <a href="https://www.credly.com/badges/b5114531-b14f-4599-8b5d-8105e492eeaa/public_url" target="_blank"><img src="./aws-cert-clfc01.png" width=50% alt="AWS Cloud Practitioner certificate" title="AWS Cloud Practitioner"></a>
-<a href="https://dly.to/cfe6MDXfolH"><img src="https://raw.githubusercontent.com/aramb-dev/aramb-dev/main/devcard.svg" width="400" alt="Abdur-Rahman's Dev Card"/></a><br><br>
-
+<a href="https://app.daily.dev/arambdev"><img src="https://api.daily.dev/devcards/v2/tq7cYAx68A8gBZZGEzkj6.png?r=998" width="356" alt="Abdur Rahman Bilal's Dev Card"/></a>
 <a href="https://cloud.appwrite.io/card/646e913f5f6b3543341f">
 	<img width="350" src="https://cloud.appwrite.io/v1/cards/cloud?userId=646e913f5f6b3543341f" alt="Appwrite Cloud Card" />
 </a>
