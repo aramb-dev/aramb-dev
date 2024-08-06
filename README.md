@@ -12,11 +12,11 @@ You can click the Preview link to take a look at your changes.
 <!--- - 👨‍💻 All of my projects are available at [https://aramb.aramservices.com](https://aramb.aramservices.com) --->
 
 <!--- - 📝 I regularly write articles on [https://aramb.aramservices.com](https://aramb.aramservices.com/blog) --->
-<a href="https://github.com/aramb-dev/geoid-python-converter" ><img width=32% src="https://github.com/aramb-dev/aramb-dev/assets/65731416/a6ae2cc3-8040-48dd-b459-a95f9abc406f" align="center" /></a>
-<img width=32% align="center" src="https://github-readme-stats.vercel.app/api?username=aramb-dev&show_icons=true&theme=cobalt&locale=en&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" alt="aramb-dev"/>
-	<img width=32% align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aramb-dev&" alt="aramb-dev" />
+<a href="https://github.com/aramb-dev/geoid-python-converter" ><img width=49% src="https://github.com/aramb-dev/aramb-dev/assets/65731416/a6ae2cc3-8040-48dd-b459-a95f9abc406f" align="center" /></a>
+<img width=49% align="center" src="https://github-readme-stats.vercel.app/api?username=aramb-dev&show_icons=true&theme=cobalt&locale=en&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" alt="aramb-dev"/>
+	<img width=49% align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aramb-dev&" alt="aramb-dev" />
 <a href="https://github.com/aramb-dev">
-	<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aramb-dev&theme=aura_dark" alt="ARAMB-DEV GitHub overview card" tooltip="ARAMB-DEV GitHub overview card" width=100%/>
+	<img width=49% align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aramb-dev&theme=aura_dark" alt="ARAMB-DEV GitHub overview card" tooltip="ARAMB-DEV GitHub overview card" width=100%/>
 
 <a href="https://www.credly.com/badges/b5114531-b14f-4599-8b5d-8105e492eeaa/public_url" target="_blank"><img align=center src="./aws-cert-clfc01.png" width=32% alt="AWS Cloud Practitioner certificate" title="AWS Cloud Practitioner"></a>
 <a href="https://app.daily.dev/arambdev"><img src="https://api.daily.dev/devcards/v2/tq7cYAx68A8gBZZGEzkj6.png?r=998" width="32%" align=center alt="Abdur Rahman Bilal's Dev Card"/></a>
