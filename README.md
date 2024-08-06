@@ -4,7 +4,7 @@ aramb-dev/aramb-dev is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 <a href="https://github.com/aramb-dev"><img align="center" width=100% src="https://readme-typing-svg.demolab.com?font=Tajawal&weight=600&size=34&duration=500&pause=1000&color=2F653E&center=true&vCenter=true&width=700&height=60&lines=Hi!;Welcome+to+my+GitHub+Page!;My+name+is+Abdur-Rahman+Bilal.+;%D8%B9%D8%A8%D8%AF%D8%A7%D9%84%D8%B1%D8%AD%D9%85%D9%86+%D8%A8%D9%84%D8%A7%D9%84;I+am+a+young+man+who+loves+to+code...;However%2C+I+am+currently+dealing+with+WordPress+;at+the+moment." alt="Typing SVG" /></a><p align="left"> 
-<img src="https://komarev.com/ghpvc/?username=aramb-dev&label=Profile%20views&color=2F653E&style=for-the-badge&label=views&abbreviated=true&base=100" alt="aramb-dev" /> </p>
+<a href="https://github.com/aramb-dev"><img src="https://komarev.com/ghpvc/?username=aramb-dev&label=Profile%20views&color=2F653E&style=for-the-badge&label=views&abbreviated=true&base=100" alt="aramb-dev" /> </p></a>
 - 📫 How to reach me **aramb@aramservices.com**
 
 <p align="left"> <a href="https://github.com/aramb-dev"><img src="https://github-profile-trophy.vercel.app/?username=aramb-dev" alt="aramb-dev" /></a> </p>
