@@ -29,6 +29,63 @@ I'm **Abdur-Rahman Bilal**, a passionate developer with a love for coding and Wo
 <p>
   <img alt="Python" src="https://img.shields.io/badge/-Python-blue?style=flat-square&logo=Python&logoColor=white" />
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=JavaScript&logoColor=white" />
+  <img alt="ChatGPT" src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" />
+  <img alt="Copilot" src="https://img.shields.io/badge/github%20copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" />
+  <img alt="Gemini/Bard" src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" />
+  <img alt="dev.to" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" />
+  <a href="https://app.daily.dev/arambdev"><img alt="daily.dev" src="https://img.shields.io/badge/daily.dev-CE3DF3?style=for-the-badge&logo=dailydotdev&logoColor=white" /></a>
+  <a href="mailto:aramb@aramservices.com"><img alt="" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <img alt="aws" src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img alt="cloudflare" src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white" />
+  <img alt="icloud" src="https://img.shields.io/badge/iCloud-3693F3?style=for-the-badge&logo=iCloud&logoColor=white" />
+  <img alt="netlify" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
+  <img alt="mongo db" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img alt="mysql" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img alt="adobe creative cloud" src="https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white" />  
+  <img alt="adobe illustrator" src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" />
+  <img alt="adobe premiere pro" src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white" />
+  <img alt="affinity publisher" src="https://img.shields.io/badge/affinity%20publisher-891B26.svg?style=for-the-badge&logo=affinity-publisher&logoColor=white" />
+  <img alt="affinity designer" src="https://img.shields.io/badge/affinity%20desginer-%231B72BE.svg?style=for-the-badge&logo=affinity-designer&logoColor=white" />
+  <img alt="affinity photo" src="https://img.shields.io/badge/affinity%20photo-%237E4DD2.svg?style=for-the-badge&logo=affinity-photo&logoColor=white" />
+  <img alt="" src="" />
+  <img alt="" src="" />
+  <img alt="" src="" />
+  <img alt="" src="" />
+  <img alt="" src="" />
+  <img alt="" src="" />
+  <img alt="" src="" />
+  <img alt="" src="" />
+  <img alt="" src="" />
+  <img alt="" src="" />
+  <img alt="" src="" />
+  <img alt="" src="" />
+  <img alt="" src="" />
+  <img alt="" src="" />
+  <img alt="" src="" />
+  <img alt="" src="" />
+  <img alt="" src="" />
+  <img alt="" src="" />
+  <img alt="" src="" />
+  <img alt="" src="" />
+  <img alt="" src="" />
+  <img alt="" src="" />
+  <img alt="" src="" />
+  <img alt="" src="" />
+  <img alt="" src="" />
+  <img alt="" src="" />
+  <img alt="" src="" />
+  <img alt="" src="" />
+  <img alt="" src="" />
+  <img alt="" src="" />
+  <img alt="" src="" />
+  <img alt="" src="" />
+  <img alt="" src="" />
+  <img alt="" src="" />
+  <img alt="" src="" />
+  <img alt="" src="" />
+  <img alt="" src="" />
+  <img alt="" src="" />
+  <img alt="" src="" />
   <!-- Add more badges as needed -->
 </p>
 
