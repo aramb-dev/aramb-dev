@@ -1,0 +1,81 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" version="25.0.3">
+  <diagram name="Page-1" id="fL5dB_kIWUc60O1T-WfP">
+    <mxGraphModel>
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="2" value="User Research" style="rounded=1;arcSize=40;strokeWidth=2" vertex="1" parent="1">
+          <mxGeometry x="69" y="8" width="131" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="3" value="Wireframing" style="rounded=1;arcSize=40;strokeWidth=2" vertex="1" parent="1">
+          <mxGeometry x="75" y="130" width="118" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="4" value="Prototyping" style="rounded=1;arcSize=40;strokeWidth=2" vertex="1" parent="1">
+          <mxGeometry x="19" y="251" width="112" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="5" value="Development" style="rounded=1;arcSize=40;strokeWidth=2" vertex="1" parent="1">
+          <mxGeometry x="13" y="373" width="124" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="6" value="Testing" style="rounded=1;arcSize=40;strokeWidth=2" vertex="1" parent="1">
+          <mxGeometry x="35" y="494" width="80" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="7" value="Deployment" style="rounded=1;arcSize=40;strokeWidth=2" vertex="1" parent="1">
+          <mxGeometry x="17" y="616" width="116" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="8" value="User Feedback" style="rounded=1;arcSize=40;strokeWidth=2" vertex="1" parent="1">
+          <mxGeometry x="8" y="737" width="135" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="9" value="Iteration" style="rounded=1;arcSize=40;strokeWidth=2" vertex="1" parent="1">
+          <mxGeometry x="88" y="859" width="92" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="10" value="Identify Needs" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;" edge="1" parent="1" source="2" target="3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="11" value="Design UI" style="curved=1;startArrow=none;endArrow=block;exitX=0.3;exitY=0.98;entryX=0.5;entryY=0;" edge="1" parent="1" source="3" target="4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="75" y="215" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="12" value="Interactive Design" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;" edge="1" parent="1" source="4" target="5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="13" value="Code" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.98;entryX=0.5;entryY=0;" edge="1" parent="1" source="5" target="6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="14" value="Quality Assurance" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;" edge="1" parent="1" source="6" target="7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="15" value="Release" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.98;entryX=0.5;entryY=0;" edge="1" parent="1" source="7" target="8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="16" value="Feedback Loop" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.25;entryY=-0.01;" edge="1" parent="1" source="8" target="9">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="75" y="822" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="17" value="Refinement" style="curved=1;startArrow=none;endArrow=block;exitX=0.76;exitY=-0.01;entryX=0.71;entryY=0.98;" edge="1" parent="1" source="9" target="3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="194" y="822" />
+              <mxPoint x="194" y="215" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
