@@ -33,6 +33,7 @@ I'm **Abdur-Rahman Bilal**, a passionate developer with a love for coding and Wo
 </p>
 
 ### 🛠️ Languages and Tools
+[![roadmap.sh](https://roadmap.sh/card/wide/6782715d70129741a80c84af?variant=dark&roadmaps=frontend%3Fr%3Dfrontend-beginner%2Cbackend%3Fr%3Dbackend-beginner%2Capi-design%2Cfull-stack)](https://roadmap.sh)
 <p>
   <img alt="Python" src="https://img.shields.io/badge/-Python-blue?style=flat-square&logo=Python&logoColor=white" />
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=JavaScript&logoColor=white" />
