@@ -11,7 +11,7 @@
 I'm **Abdur-Rahman Bilal**, a passionate developer with a love for coding and WordPress. I'm constantly exploring new technologies and sharing my knowledge with the community.
 
 - 🔗 [Portfolio](https://a-bilal.typedream.app)
-- 📫 Reach me at **aramb@aramservices.com**
+- 📫 Reach me at **aramb@aramb.dev**
 - Raycast ([download here](https://raycast.com/?via=abdur-rahman))
 - [Aram Tutorials:](https://www.youtube.com/@AramTutorials?sub_confirmation=1): [youtube/@AramTutorials](https://www.youtube.com/@AramTutorials?sub_confirmation=1)
 
