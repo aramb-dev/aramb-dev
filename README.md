@@ -4,7 +4,10 @@
 
 <p align="center"> 
 <a href="https://gitquest.dev/player/aramb-dev" target="_blank">
-<img src="https://img.shields.io/badge/GitQuest%20Winner-1st Place-ffd700" alt="GitQuest Winner">
+<img src="https://waka.hackclub.com/api/badge/U08BPQLE8N5/interval:today?label=today%20coding%20time" alt="Today's Stats coding stats">
+    <img src="https://img.shields.io/badge/GitQuest%20Winner-1st Place-ffd700" alt="GitQuest Winner">
+  <img src="https://img.shields.io/endpoint?url=https://waka.hackclub.com/api/compat/shields/v1/U08BPQLE8N5/interval:all_time&label=All%20time&color=blue" alt="All time coding stats">
+
 </a> </p></a>
 
 ## 👨‍💻 About Me
@@ -30,6 +33,8 @@ I'm **Abdur-Rahman Bilal**, a passionate developer with a love for coding and Wo
 <p align="center">
   <img width=49% align="center" src="https://github-readme-stats.vercel.app/api?username=aramb-dev&show_icons=true&theme=cobalt&locale=en&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" alt="aramb-dev"/>
   <img width=49% align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aramb-dev&theme=cobalt" alt="aramb-dev" />
+  <img width=49% align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=U08BPQLE8N5&api_domain=waka.hackclub.com&bg_color=1A202C&title_color=2F855A&icon_color=2F855A&text_color=ffffff&custom_title=Wakapi%20Week%20Stats&layout=compact" alt="aramb-dev" />
+  
 </p>
 
 ### 🛠️ Languages and Tools
