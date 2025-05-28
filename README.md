@@ -2,13 +2,13 @@
 ## 👋 Introduction
 <a href="https://github.com/aramb-dev"><img align="center" width=100% src="https://readme-typing-svg.demolab.com?font=Tajawal&weight=600&size=34&duration=500&pause=1000&color=2F653E&center=true&vCenter=true&width=700&height=60&lines=Hi!;Welcome+to+my+GitHub+Page!;My+name+is+Abdur-Rahman+Bilal.+;%D8%B9%D8%A8%D8%AF%D8%A7%D9%84%D8%B1%D8%AD%D9%85%D9%86+%D8%A8%D9%84%D8%A7%D9%84;I+am+a+young+man+who+loves+to+code...;And+that's+all+there+is+to+see!" alt="Typing SVG" /></a>
 
-<p align="center"> 
-<a href="https://gitquest.dev/player/aramb-dev" target="_blank">
-<img src="https://waka.hackclub.com/api/badge/U08BPQLE8N5/interval:today?label=today%20coding%20time" alt="Today's Stats coding stats">
-    <img src="https://img.shields.io/badge/GitQuest%20Winner-1st Place-ffd700" alt="GitQuest Winner">
-  <img src="https://img.shields.io/endpoint?url=https://waka.hackclub.com/api/compat/shields/v1/U08BPQLE8N5/interval:all_time&label=All%20time&color=blue" alt="All time coding stats">
+<p align="center"> <a href="https://github.com/aramb-dev">
+<img src="https://waka.hackclub.com/api/badge/U08BPQLE8N5/interval:today?label=today%20coding%20time" alt="Today's Stats coding stats"></a>
+    <a href="https://gitquest.dev/player/aramb-dev" target="_blank">
+<img src="https://img.shields.io/badge/GitQuest%20Winner-1st Place-ffd700" alt="GitQuest Winner"></a>
+    <a href="https://github.com/aramb-dev"><img src="https://img.shields.io/endpoint?url=https://waka.hackclub.com/api/compat/shields/v1/U08BPQLE8N5/interval:all_time&label=All%20time&color=blue" alt="All time coding stats"></a>
 
-</a> </p></a>
+ </p></a>
 
 ## 👨‍💻 About Me
 I'm **Abdur-Rahman Bilal**, a passionate developer with a love for coding and WordPress. I'm constantly exploring new technologies and sharing my knowledge with the community.
