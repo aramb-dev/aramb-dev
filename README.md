@@ -33,8 +33,7 @@ I'm **Abdur-Rahman Bilal**, a passionate developer with a love for coding and Wo
 <p align="center">
   <img width=49% align="center" src="https://github-readme-stats.vercel.app/api?username=aramb-dev&show_icons=true&theme=cobalt&locale=en&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" alt="aramb-dev"/>
   <img width=49% align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aramb-dev&theme=cobalt" alt="aramb-dev" />
-  <img width=49% align="center" src="https://github-readme-stats.hackclub.dev/api/wakatime?username=733&api_domain=hackatime.hackclub.com&theme=darcula&custom_title=Coding+Stats&layout=compact&cache_seconds=0&langs_count=8
-" alt="aramb-dev" />
+  <img width=49% align="center" src="https://github-readme-stats.hackclub.dev/api/wakatime?username=733&api_domain=hackatime.hackclub.com&theme=darcula&custom_title=Coding+Stats&layout=compact&cache_seconds=0&langs_count=8" alt="aramb-dev" />
   
 </p>
 
