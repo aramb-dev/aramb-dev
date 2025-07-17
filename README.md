@@ -1,7 +1,8 @@
 ![](https://hit.yhype.me/github/profile?user_id=65731416)
 ## 👋 Introduction
-<a href="https://github.com/aramb-dev"><img align="center" width=100% src="https://readme-typing-svg.demolab.com?font=Tajawal&weight=600&size=34&duration=500&pause=1000&color=2F653E&center=true&vCenter=true&width=700&height=60&lines=Hi!;Welcome+to+my+GitHub+Page!;My+name+is+Abdur-Rahman+Bilal.+;%D8%B9%D8%A8%D8%AF%D8%A7%D9%84%D8%B1%D8%AD%D9%85%D9%86+%D8%A8%D9%84%D8%A7%D9%84;I+am+a+young+man+who+loves+to+code...;And+that's+all+there+is+to+see!" alt="Typing SVG" /></a>
-
+<a href="https://github.com/aramb-dev">
+  <img align="center" width="100%" src="https://readme-typing-svg.demolab.com?font=Tajawal&weight=600&size=28&duration=500&pause=1000&color=2F653E&center=true&vCenter=true&width=700&height=60&lines=Hi+there!;I'm+Abdur-Rahman+Bilal.;%D8%B9%D8%A8%D8%AF%D8%A7%D9%84%D8%B1%D8%AD%D9%85%D9%86+%D8%A8%D9%84%D8%A7%D9%84;I+love+to+code+and+build.;Thanks+for+visiting!" alt="Typing SVG" />
+</a>
 <p align="center"> <a href="https://github.com/aramb-dev">
 <img src="https://waka.hackclub.com/api/badge/U08BPQLE8N5/interval:today?label=today%20coding%20time" alt="Today's Stats coding stats"></a>
     <a href="https://gitquest.dev/player/aramb-dev" target="_blank">
@@ -11,9 +12,9 @@
  </p></a>
 
 ## 👨‍💻 About Me
-I'm **Abdur-Rahman Bilal**, a passionate developer with a love for coding and WordPress. I'm constantly exploring new technologies and sharing my knowledge with the community.
+I'm **Abdur-Rahman Bilal**, a passionate developer exploring Next.js, React, and AI-powered tools. I enjoy learning, building, and vibing with clean, purposeful code.
 
-- 🔗 [Portfolio](https://a-bilal.typedream.app)
+- 🔗 [Portfolio](https://aramb.dev)
 - 📫 Reach me at **aramb@aramb.dev**
 - Raycast ([download here](https://raycast.com/?via=abdur-rahman))
 - [Aram Tutorials:](https://www.youtube.com/@AramTutorials?sub_confirmation=1): [youtube/@AramTutorials](https://www.youtube.com/@AramTutorials?sub_confirmation=1)
@@ -26,8 +27,6 @@ I'm **Abdur-Rahman Bilal**, a passionate developer with a love for coding and Wo
   <a href="https://gitquest.dev/player/aramb-dev" target="_blank"><img src="https://gitquest.dev/api/badges?type=ranking&rank=1&theme=dark" style="border-radius: 11px;" alt="GitQuest Badge"></a>
 </p>
 
-### 🚀 Key Projects
-<a href="https://github.com/aramb-dev/geoid-python-converter" ><img width=49% src="https://github.com/aramb-dev/aramb-dev/assets/65731416/a6ae2cc3-8040-48dd-b459-a95f9abc406f" align="center" /></a>
 
 ### 📊 GitHub Stats
 <p align="center">
