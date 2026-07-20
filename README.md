@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/aramb-dev">
-    <img src="https://readme-typing-svg.demolab.com?font=Tajawal&weight=600&size=22&duration=500&pause=1000&color=2F653E&center=true&vCenter=true&width=600&height=40&lines=I+love+to+code+and+build.;Vibe-coding+%2B+useful+tools.;Thanks+for+visiting!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Tajawal&weight=600&size=22&duration=500&pause=1200&color=2F653E&center=true&vCenter=true&width=600&height=40&lines=%D9%85%D8%B1%D8%AD%D8%A8%D8%A7%D9%8B%D8%8C+%D8%A3%D9%86%D8%A7+%D8%B9%D8%A8%D8%AF%D8%A7%D9%84%D8%B1%D8%AD%D9%85%D9%86+%F0%9F%91%8B;Hi+there%2C+I%27m+Abdur-Rahman.;%D8%A3%D8%AD%D8%A8+%D8%A7%D9%84%D8%A8%D8%B1%D9%85%D8%AC%D8%A9+%D9%88%D8%A7%D9%84%D8%A8%D9%86%D8%A7%D8%A1;I+love+to+code+and+build.;%D8%B4%D9%83%D8%B1%D8%A7%D9%8B+%D9%84%D8%B2%D9%8A%D8%A7%D8%B1%D8%AA%D9%8A;Thanks+for+visiting%21" alt="Typing SVG" />
   </a>
 </p>
 
