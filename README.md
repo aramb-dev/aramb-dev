@@ -12,11 +12,6 @@
 Passionate developer who enjoys vibe-coding, building useful tools, and turning ideas into real products. Focused on clean, practical, user-friendly solutions — always learning across AI, education, automation, and web dev.
 </p>
 
-<p align="center">
-  <a href="https://gitquest.dev/player/aramb-dev"><img src="https://img.shields.io/badge/GitQuest%20Winner-1st Place-ffd700" alt="GitQuest Winner"></a>
-  <a href="https://github.com/aramb-dev"><img src="https://img.shields.io/endpoint?url=https://waka.hackclub.com/api/compat/shields/v1/U08BPQLE8N5/interval:all_time&label=All%20time%20coding&color=blue" alt="All time coding stats"></a>
-</p>
-
 ---
 
 <p align="center">
@@ -29,8 +24,8 @@ Passionate developer who enjoys vibe-coding, building useful tools, and turning 
 [Portfolio](https://aramb.dev) · [YouTube](https://www.youtube.com/@AramTutorials) · [Email](mailto:aramb@aramb.dev)
 
 ### / projects
-- **Transcriptr** — audio to text, powered by AssemblyAI
-- **Ilm Search** — curated search for verified scholarly rulings
+- **[Transcriptr](https://github.com/aramb-dev/transcriptr)** — audio to text, powered by AssemblyAI
+- **[Ilm Search](https://github.com/aramb-dev/fatwa-search)** — curated search for verified scholarly rulings
 - **Aram Digital Services** — web dev & digital marketing for small businesses
 - More on **[aramb.dev](https://aramb.dev)** →
 
@@ -45,13 +40,12 @@ Passionate developer who enjoys vibe-coding, building useful tools, and turning 
   <img alt="AWS" src="https://img.shields.io/badge/-AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white" />
 </p>
 
+<!--
 ### / stats
 <p align="center">
-  <img width=49% src="https://github-readme-stats.vercel.app/api?username=aramb-dev&show_icons=true&theme=cobalt&hide_border=true" alt="aramb-dev stats"/>
-  <img width=49% src="https://github-readme-streak-stats.herokuapp.com/?user=aramb-dev&theme=cobalt&hide_border=true" alt="aramb-dev streak" />
+  <img src="https://raw.githubusercontent.com/aramb-dev/aramb-dev/output/metrics.svg" alt="aramb-dev metrics" width="100%" />
 </p>
+-->
 
 ### / certifications
-<p align="center">
-  <a href="https://www.credly.com/badges/b5114531-b14f-4599-8b5d-8105e492eeaa/public_url"><img src="./aws-cert-clfc01.png" width="28%" alt="AWS Cloud Practitioner"></a>
-</p>
+[AWS Cloud Practitioner](https://www.credly.com/badges/b5114531-b14f-4599-8b5d-8105e492eeaa/public_url)
