@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-Passionate developer who enjoys vibe-coding, building useful tools, and turning ideas into real products. Focused on clean, practical, user-friendly solutions — always learning across AI, education, automation, and web dev.
+Passionate developer who enjoys vibe-coding, building useful tools, and turning ideas into real products. Focused on clean, practical, user-friendly solutions and I am always learning about AI, education, automation, and web dev.
 </p>
 
 ---
@@ -24,9 +24,9 @@ Passionate developer who enjoys vibe-coding, building useful tools, and turning 
 [Portfolio](https://aramb.dev) · [YouTube](https://www.youtube.com/@AramTutorials) · [Email](mailto:aramb@aramb.dev)
 
 ### / projects
+- **[Aram Digital Services](https://aramservices.com)** — web dev & digital marketing for small businesses
 - **[Transcriptr](https://github.com/aramb-dev/transcriptr)** — audio to text, powered by AssemblyAI
 - **[Ilm Search](https://github.com/aramb-dev/fatwa-search)** — curated search for verified scholarly rulings
-- **Aram Digital Services** — web dev & digital marketing for small businesses
 - More on **[aramb.dev](https://aramb.dev)** →
 
 ### / stack
